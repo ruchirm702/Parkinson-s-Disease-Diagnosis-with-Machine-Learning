@@ -12,7 +12,7 @@ The Parkinson's Disease Classification dataset from the UCI Machine Learning Rep
 
 Conclusion
 
-Based on the results you provided, the best performing model is K-Nearest Neighbors (KNN) with an accuracy of 0.983.
+Based on the results provided, the best performing model is K-Nearest Neighbors (KNN) with an accuracy of 0.983.
 
 Random Forest with information gain and entropy both have an accuracy of 0.966, and Decision Tree has an accuracy of 0.949. Support Vector Machine (SVM) has an accuracy of 0.915, and Logistic Regression has an accuracy of 0.797. Naive Bayes classifiers, both Gaussian (gnb) and Bernoulli (bnb), and voting classifier have an accuracy of 0.814.
 
