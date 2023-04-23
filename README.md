@@ -28,6 +28,5 @@ The Parkinson's disease project aimed to develop a machine learning model that c
 
 In this project, we explored various classification models, including Logistic Regression, Random Forest, Support Vector Machines, and XGBoost. We also applied dimensionality reduction techniques such as Principal Component Analysis (PCA) to improve the model's performance.
 
-After comparing the performance of these models, we found that XGBoost with PCA outperformed the other models, achieving a near-perfect AUC score of 1.00 on the test set. This suggests that the model can effectively distinguish between Parkinson's disease patients and healthy individuals based on the clinical features provided.
 
 Overall, this project highlights the potential of machine learning techniques in aiding the diagnosis of Parkinson's disease, which can lead to earlier and more accurate detection of the disease, allowing for earlier interventions and better outcomes for patients.
