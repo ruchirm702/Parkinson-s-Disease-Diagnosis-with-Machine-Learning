@@ -1,4 +1,20 @@
 # Parkinson-s-Disease-Diagnosis-with-Machine-Learning
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3C7EBB?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-009688?style=for-the-badge&logo=matplotlib&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-FB8C00?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-7D4698?style=for-the-badge&logo=projective-space&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-276DC3?style=for-the-badge&logo=svm&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-019875?style=for-the-badge&logo=regression&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=forest&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-483D8B?style=for-the-badge&logo=knn&logoColor=white)
+
+
 ## Abstract
 
 ### Purpose of the Project and Target Audience
